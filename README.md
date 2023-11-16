@@ -1,7 +1,7 @@
 # weather_app
 
 
-![Screenshot_1700118400](https://github.com/BekirKurt/weather_app/assets/73036927/bff3ffa0-6ae8-428a-b5f8-aa927deb6ba8)
+![Screenshot_1700118400](https://github.com/BekirKurt/weather_app/assets/73036927/522d4929-1259-41f1-a389-1d629e0ebbda)
 
 
 
