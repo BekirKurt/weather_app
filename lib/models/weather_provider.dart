@@ -8,7 +8,7 @@ class WeatherProvider extends ChangeNotifier {
   Weather? get weather => _weather;
 
   Future<void> fetchWeather(String city) async {
-    _weather = await WeatherApiService('2b8e99b0f856f0a3fbffc5cbb39261b3')
+    _weather = await WeatherApiService('YOUR_API_KEY')
         .getWeather(city);
     notifyListeners();
   }
