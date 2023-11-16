@@ -1,6 +1,9 @@
-# pro_weather_app
+# weather_app
 
-A new Flutter project.
+
+![Screenshot_1700118400](https://github.com/BekirKurt/weather_app/assets/73036927/bff3ffa0-6ae8-428a-b5f8-aa927deb6ba8)
+
+
 
 ## Getting Started
 
